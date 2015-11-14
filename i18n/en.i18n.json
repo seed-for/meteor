@@ -1,0 +1,22 @@
+{
+  "config": {
+    "title": "__title__ | SEED for Meteor",
+    "description": "Description of SEED for METEOR"
+  },
+
+  "shared": {
+    "article": {
+      "default_p": "No content provided"
+    }
+  },
+
+  "view": {
+    "welcome": {
+      "title": "Welcome",
+      "description": "WELCOME to the SEED for METEOR",
+      "article_title": "Article",
+      "article_p": "This is my amazing article.",
+      "article_title_wdp": "Article with default paragraph"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "config": {
+    "title": "__title__ | 미디어 시드",
+    "description": "미디어 시드입니다."
+  },
+
+  "shared": {
+    "article": {
+      "default_p": "내용이 없습니다."
+    }
+  },
+
+  "view": {
+    "welcome": {
+      "title": "환영",
+      "description": "미티어 시드에 오신 것을 환영합니다.",
+      "article_title": "글",
+      "article_p": "어메이징한 나의 글이야.",
+      "article_title_wdp": "디폴트 내용의 글"
+    }
+  }
+}

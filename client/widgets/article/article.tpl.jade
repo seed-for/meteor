@@ -1,0 +1,6 @@
+.article
+  h1 #{_ title}
+  if UI.contentBlock
+    +UI.contentBlock
+  else
+    p #{_ 'shared.article.default_p'}
