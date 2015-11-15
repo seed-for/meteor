@@ -26,6 +26,16 @@ momentjs:moment
 
 tap:i18n
 
+accounts-password
+accounts-google
+accounts-facebook
+alanning:roles
+
+aldeed:collection2
+dburles:collection-helpers
+matb33:collection-hooks
+aldeed:autoform
+
 kadira:flow-router
 kadira:blaze-layout
 spiderable
