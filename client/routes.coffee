@@ -1,3 +1,5 @@
+BlazeLayout.setRoot '.main-container'
+
 Route = FlowRouter.group {}
 
 Route.route '/',
